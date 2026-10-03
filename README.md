@@ -17,3 +17,17 @@ Currently developing skills in C++, Arduino, electronics, CAD, and mechatronics 
 - **CAD:** AutoCAD, SolidWorks
 - **Electronics:** Basic circuits, sensors, breadboard prototyping
 - **Engineering:** Mechanical design, mechatronics fundamentals
+
+---
+
+## 🔧 Featured Projects
+
+### 🔹 Engineering Projects
+Hands-on projects developed through my undergraduate engineering studies.
+1. self-heating-smart-lunch-box
+   
+### 🔹 Personal Projects
+Independent projects focused on electronics, embedded systems, and practical engineering.
+1. smart-night-light
+
+> More projects and documentation coming soon.
