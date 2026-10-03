@@ -31,3 +31,14 @@ Independent projects focused on electronics, embedded systems, and practical eng
 1. smart-night-light
 
 > More projects and documentation coming soon.
+
+---
+
+## 📚 Currently Learning
+
+- C++ programming
+- Arduino and embedded systems
+- Sensors and electronic circuits
+- Mechatronics system design
+- SolidWorks and mechanical CAD
+- Control systems and automation
