@@ -42,3 +42,11 @@ Independent projects focused on electronics, embedded systems, and practical eng
 - Mechatronics system design
 - SolidWorks and mechanical CAD
 - Control systems and automation
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: thusharasamarasinghe2002@gmail.com
+- 💼 LinkedIn:  [Thushara Samarasinghe](https://www.linkedin.com/in/thushara-samarasinghe-4ab988358/)
+- 📍 Sri Lanka
